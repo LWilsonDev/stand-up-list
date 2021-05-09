@@ -1,0 +1,29 @@
+#listContainer {
+  position: absolute;
+  width: 100%;
+  background-color: white;
+}
+
+button {
+  border: none;
+  background-color: white;
+  height: 40px;
+  color: #00796b;
+  width: 235px;
+  display: block;
+}
+
+.person {
+  border: none;
+  background-color: #00796b;
+  height: 40px;
+  color: white;
+  width: 235px;
+  display: block;
+}
+
+.checked {
+  background-color: #c7cfce;
+  color: black;
+  text-decoration: line-through;
+}
