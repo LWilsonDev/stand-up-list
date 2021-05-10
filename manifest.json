@@ -1,12 +1,12 @@
 {
   "name": "Stand-up memory helper",
   "description": "A working memory aid for Google Meet™",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["scripting"],
+  "permissions": ["activeTab", "scripting"],
   "action": {},
   "icons": {
     "16": "/images/logo16.png",
