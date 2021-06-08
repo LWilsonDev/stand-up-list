@@ -1,5 +1,9 @@
 # Stand Up Memory Helper
 
+!! REMOVED FROM STORE !!
+
+This extension is no longer working due to the recent update of Google Meet.
+
 ## A google Chrome Extension
 
 A working memory aid for Google Meet™
@@ -20,18 +24,12 @@ The Javascript is very simple - I found there to be some limitations with using 
 
 ### Get the extension
 
-To download the extension, head to the [Chrome store](https://chrome.google.com/webstore/detail/stand-up-memory-helper/bbkdmgbcgmolkchkahbenkdhajcdopjb/related)
+~~To download the extension, head to the [Chrome store](https://chrome.google.com/webstore/detail/stand-up-memory-helper/bbkdmgbcgmolkchkahbenkdhajcdopjb/related)~~
+
+Removed due to breaking update
 
 ### Run locally
 
 - Download the repo
 - head to the chrome [extension manager](chrome://extensions/) ensuring you are in developer mode by clicking the Chrome menu icon and select Extensions from the Tools menu. Ensure that the "Developer mode" checkbox in the top right-hand corner is checked.
 - Go to 'Load Unpacked' and load your project. This will add the extension to your browser locally, and you can refresh and see any errors.
-
-### Contribute to the code
-
-Improvements, bug fixes and contributions to the project are most welcome. Please feel free to submit a PR.
-
-### Raise an issue
-
-Please use the issues tab to raise any bugs

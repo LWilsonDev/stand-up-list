@@ -1,7 +1,7 @@
 {
   "name": "Stand-up memory helper",
   "description": "A working memory aid for Google Meet™",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"
